@@ -53,9 +53,11 @@ packages:
   custom_edittext:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
+      path: "."
+      ref: develop
+      resolved-ref: a22907746f8b30fd5b296998ca53585c8f1b5ee3
+      url: "https://github.com/Sreejith2023/custom_widgets.git"
+    source: git
     version: "0.0.1"
   fake_async:
     dependency: transitive
